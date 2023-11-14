@@ -1,0 +1,12 @@
+{
+  "name": "queue-based-task-processing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "amqplib": "^0.10.3",
+    "express": "^4.18.2",
+    "lodash": "^4.17.21",
+    "uuid": "^9.0.1"
+  }
+}

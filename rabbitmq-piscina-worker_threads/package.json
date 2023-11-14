@@ -1,0 +1,14 @@
+{
+  "name": "rabbitmq-piscina-worker_threads",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "amqplib": "^0.10.3",
+    "express": "^4.18.2",
+    "piscina": "^4.1.0",
+    "rabbitmq": "^0.0.2",
+    "redis": "^4.6.10",
+    "uuid": "^9.0.1"
+  }
+}
